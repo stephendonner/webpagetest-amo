@@ -1,7 +1,10 @@
 {
-  "median:"
-    "loadTime": 4500,
-    "score_gzip": {
-      "min": 90
+  "median": {
+    "firstview": {
+      "loadTime": 4500,
+      "score_gzip": {
+        "min": 90
+      }
     }
+  }
 }
