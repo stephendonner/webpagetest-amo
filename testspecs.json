@@ -1,5 +1,7 @@
 {
-  "median:" {
-    "loadTime": 4500
-  }
+  "median:"
+    "loadTime": 4500,
+    "score_gzip": {
+      "min": 90
+    }
 }
