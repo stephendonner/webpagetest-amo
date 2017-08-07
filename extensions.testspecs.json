@@ -1,0 +1,16 @@
+{
+  "median": {
+    "firstView": {
+      "loadTime": 4500,
+      "score_gzip": {
+        "min": 90
+      },
+      "score_cdn": {
+        "min": 99
+      },
+      "score_cache": {
+        "min": 92
+      }
+    }
+  }
+}
