@@ -7,6 +7,9 @@
       },
       "score_cdn": {
         "min": 100
+      },
+      "score_cache": {
+        "min": 92
       }
     }
   }
