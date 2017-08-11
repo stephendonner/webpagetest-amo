@@ -5,7 +5,8 @@
         "js": {
           "requests": 4,
           "bytes": 139000
-        },
+        }
+      },
       "score_gzip": {
         "min": 90
       },
