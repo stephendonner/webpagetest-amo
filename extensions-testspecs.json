@@ -1,7 +1,16 @@
 {
   "median": {
     "firstView": {
-      "loadTime": 4500,
+      "breakdown": {
+        "js": {
+          "requests": 4,
+          "bytes": 139000
+        },
+        "css": {
+          "requests": 3,
+          "bytes": 44000
+        }
+      },
       "score_gzip": {
         "min": 90
       },
