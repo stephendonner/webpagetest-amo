@@ -3,11 +3,11 @@
     "firstView": {
       "breakdown": {
         "js": {
-          "requests": 8,
+          "requests": 10,
           "bytes": 228000
         },
         "css": {
-          "requests": 3,
+          "requests": 5,
           "bytes": 134000
         }
       },
