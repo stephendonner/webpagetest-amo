@@ -1,2 +1,2 @@
-setCookie https://addons-dev.allizom.org mamo=on
+addHeader Cookie: mamo=on
 navigate https://addons-dev.allizom.org/en-US/firefox/addon/adblock-plus/?src=search
