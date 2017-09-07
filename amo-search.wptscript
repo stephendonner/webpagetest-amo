@@ -1,2 +1,2 @@
 addHeader Cookie: mamo=on
-navigate https://addons-dev.allizom.org/en-US/firefox/search/
+navigate https://addons-dev.allizom.org/en-US/firefox/search/?platform=windows?q=adblock
